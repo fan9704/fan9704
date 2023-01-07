@@ -4,12 +4,13 @@
 
 ## 👉 About Me
 
-<div style="text-align:center;">
-<a href="https://stackoverflow.com/users/18726758/fkt"><img  style="background:white;display:inline; width:24%;" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"> </img></a>
-<a href="https://medium.com/@cxz123499"><img  style="display:inline; width:24%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRouQDiWR9LkKE1ms5eaK5cJMjcn76VvNmaLA&usqp=CAU"> </img></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/2192f42f-459d-4169-88b5-903944e66697"><img  style="display:inline; width:24%;" src="https://media-exp1.licdn.com/dms/image/C510BAQFR04KgVWnd3w/company-logo_200_200/0/1519878429204?e=2147483647&v=beta&t=Gpyo1sg5WO5_hF1DlDmVasu7116-7DNymlohoRA7qmI"> </img></a>
-<a href="https://www.facebook.com/tim.frank.969/"><img  style="display:inline;  width:24%; " src="https://i.imgur.com/tjuKgaO.png"> </img></a>
-</div>
+🤚 Hi i am FKT(Gang-Ting,Fan)
+
+🎲 Love information technology community and technical
+
+💛 2022 Google Developer Student Clubs Leads
+
+⚡ Intreseted in Backend and DevOps domain
 
 ----
 
@@ -36,3 +37,18 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fan9704.fan9704)
 
 </span>
+
+----
+
+## 👨 Contact Me
+
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.sql-fan9704.eu.org/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cxz123499@gmail.com)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hKsXDm29TR)
+[![](https://img.shields.io/badge/Stackoverflow-FFA116?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/18726758/fkt)
+[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tim.frank.969/)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fan9704)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cxz123499/)
+[![](https://img.shields.io/badge/Qwiklabs-EEC70E?style=for-the-badge&logo=Qwiklabs&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/2192f42f-459d-4169-88b5-903944e66697)
+[![](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@cxz123499)
+
