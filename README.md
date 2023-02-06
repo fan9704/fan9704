@@ -10,16 +10,29 @@
 
 💛 2022 Google Developer Student Clubs Leads
 
-⚡ Intreseted in Backend and DevOps domain
+⚡ Interested in Backend and DevOps domain
 
 ----
 
 ## ⚡ Technologies
 
-![](https://i.imgur.com/MHde8Kv.png)
-![](https://i.imgur.com/d1M8Ma0.png)
+
+### Backend
+![Language&Framework](https://skillicons.dev/icons?i=py,django,java,spring,nodejs,ts)
+
+![Database](https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,sqlite)
+
+![Other](https://skillicons.dev/icons?i=grafana,graphql,prometheus,selenium,hibernate)
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=vue,angular,bootstrap,flutter,firebase,electron,netlify,vite,androidstudio,vercel)
+
+### DevOps and DevTool
+
+![Tool](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,bash,linux,vscode,gcp,heroku,idea,nginx,cloudflare)
+
 ![](https://i.imgur.com/xs6GuAv.png)
-![](https://i.imgur.com/aI6x8YR.png)
 ![](https://i.imgur.com/9luhOhi.png)
 
 ----
@@ -44,7 +57,7 @@
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.sql-fan9704.eu.org/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cxz123499@gmail.com)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hKsXDm29TR)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2k7SbzeByJ)
 [![](https://img.shields.io/badge/Stackoverflow-FFA116?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/18726758/fkt)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tim.frank.969/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fan9704)
