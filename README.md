@@ -20,7 +20,7 @@
 
 
 ### Backend
-![Language&Framework](https://skillicons.dev/icons?i=py,django,java,spring,nodejs,ts)
+![Language&Framework](https://skillicons.dev/icons?i=py,django,java,spring,nodejs,ts,express)
 
 ![Database](https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,sqlite)
 
@@ -28,11 +28,12 @@
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=vue,angular,bootstrap,flutter,firebase,electron,netlify,vite,androidstudio,vercel)
+![Frontend](https://skillicons.dev/icons?i=vue,angular,bootstrap,flutter,dart,firebase,electron,netlify,vite,androidstudio,vercel)
 
 ### DevOps and DevTool
 
-![Tool](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,bash,linux,vscode,gcp,heroku,idea,nginx,cloudflare)
+![Tool](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,bash,linux,vscode,gcp,heroku,idea)
+![Tool](https://skillicons.dev/icons?i=docker,nginx,cloudflare,postman,rabbitmq,)
 
 ![](https://i.imgur.com/xs6GuAv.png)
 ![](https://i.imgur.com/9luhOhi.png)
@@ -48,8 +49,7 @@
 </img></div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fan9704&" alt="fan9704" /></p>
 
-[](![LeetCode Stats](https://leetcard.jacoblin.cool/fan9704?theme=light&font=Roboto&ext=heatmap)
-)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fan9704?theme=light&font=Roboto&ext=heatmap)
 
 
 <span align="center">
