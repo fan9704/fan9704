@@ -19,24 +19,28 @@
 ## ⚡ Technologies
 
 
-### Backend
-![Language&Framework](https://skillicons.dev/icons?i=py,django,java,spring,nodejs,ts,express)
+### 🌟 Backend
+![Language&Framework](https://skillicons.dev/icons?i=py,django,java,spring,nodejs,ts,express,go)
 
-![Database](https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,sqlite)
+![Database](https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,sqlite,elasticsearch,mongodb)
 
 ![Other](https://skillicons.dev/icons?i=grafana,graphql,prometheus,selenium,hibernate)
 
-### Frontend
+### 💻 Frontend
 
-![Frontend](https://skillicons.dev/icons?i=vue,angular,bootstrap,flutter,dart,firebase,electron,netlify,vite,androidstudio,vercel)
+![Frontend](https://skillicons.dev/icons?i=vue,angular,npm,yarn,pnpm,bootstrap,electron,netlify,vite,vuetify,vercel)
 
-### DevOps and DevTool
+### 📱 Application
 
-![Tool](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,bash,linux,vscode,gcp,heroku,idea)
-![Tool](https://skillicons.dev/icons?i=docker,nginx,cloudflare,postman,rabbitmq,)
+![Application](https://skillicons.dev/icons?i=flutter,dart,firebase)
 
-![](https://i.imgur.com/xs6GuAv.png)
-![](https://i.imgur.com/9luhOhi.png)
+### 🛠️ DevOps and DevTool
+
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,bash,linux,ubuntu,gcp,terraform,heroku)
+
+![Tool](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,arduino,postman,sketchup)
+
+![Tool](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,maven,nginx,cloudflare,rabbitmq,kafka)
 
 ----
 
