@@ -32,7 +32,7 @@
 
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=css,vercel,netlify,chartjs,codepen,githubpages,html,htmx,json&theme=dark)
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=jwt,materialui,&theme=dark)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=jwt,materialui,javascript,typescript&theme=dark)
 
 ### 📱 Application
 
