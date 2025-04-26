@@ -1,4 +1,4 @@
-# Welcome To FKT's Profile
+# Welcome To FKT Profile
 
 ----
 
@@ -20,19 +20,17 @@
 
 ### 🌟 Backend
 
-![Language&Framework](https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,django,java,spring,nodejs,ts,express,go&theme=dark)
+![Language&Framework](https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,django,java,spring,nodejs,ts,express,go,djangorestframework&theme=dark)
 
-![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,redis,firebase,sqlite,elasticsearch,mongodb,sqlserver&theme=dark)
+![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,redis,firebase,sqlite,elasticsearch,mongodb,sqlserver,mariadb,prometheus&theme=dark)
 
-![Other](https://go-skill-icons.vercel.app/api/icons?i=grafana,graphql,prometheus,selenium,hibernate,swagger,grpc,junit,pytest&theme=dark)
+![Other](https://go-skill-icons.vercel.app/api/icons?i=graphql,hibernate,typeorm,swagger,grpc,junit,pytest&theme=dark)
 
 ### 💻 Frontend
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=vue,angular,npm,yarn,pnpm,bootstrap,electron,vite,vuetify&theme=dark)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=vue,angular,npm,yarn,pnpm,bootstrap,electron,vite,vuetify,jwt,materialui&theme=dark)
 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=css,vercel,netlify,chartjs,codepen,githubpages,html,htmx,json&theme=dark)
-
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=jwt,materialui,javascript,typescript&theme=dark)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,vercel,netlify,chartjs,codepen,githubpages,htmx,json&theme=dark)
 
 ### 📱 Application
 
@@ -40,23 +38,31 @@
 
 ### 🛠️ DevOps
 
-![DevOps](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,githubactions,bash,linux,ubuntu,gcp,terraform,heroku&theme=dark)
+![OS](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,ubuntu,windows,proxmox,vmwareworkstation,wsl,debian,htop,powershell,terminal&theme=dark)
 
-![DevOps](https://go-skill-icons.vercel.app/api/icons?i=proxmox,lxc,vmwareworkstation,aws,virtualbox,wsl,bigquery,helm,ansible&theme=dark)
+![Virtualization and Container](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,lxc,githubactions,terraform,heroku,virtualbox&theme=dark)
 
-![DevOps](https://go-skill-icons.vercel.app/api/icons?i=tmux,kafka,rabbitmq,debian,htop,cloudflare,ngrok,nginx,kibana&theme=dark)
+![DevOps](https://go-skill-icons.vercel.app/api/icons?i=tmux,kafka,rabbitmq,cloudflare,ngrok,nginx,kibana,prometheus,helm,ansible,grafana&theme=dark)
+
+![AWS Cloud](https://go-skill-icons.vercel.app/api/icons?i=aws,elb,elasticbeanstalk,ecs,ecr,ec2,lambda,dynamodb,rds,cloudwatch,cloudfront,s3&theme=dark)
+
+![GCP Cloud](https://go-skill-icons.vercel.app/api/icons?i=gcp,bigquery&theme=dark)
 
 ### 🛠️ DevTool
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,arduino,postman,sketchup&theme=dark)
+![IDE](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,pycharm,webstorm,androidstudio,arduino,postman,sketchup,googlecolab,platformio&theme=dark)
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,bitbucket,maven,notepadpp,sublime,terminal,figma&theme=dark)
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,bitbucket,maven,notepadpp,sublime,figma,markdown,workers,pbi&theme=dark)
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,opensource,jira,jupyter,kde,sonarqube,miro,gradle&theme=dark)
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,opensource,jira,jupyter,kde,sonarqube,miro,gradle,alacritty,regex,wireshark&theme=dark)
+
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=yaml,selenium&theme=dark)
 
 ### AI Related
 
-![AI](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,ollama,huggingface,kaggle,langchain,chatgpt,streamlit,gemini,claude,githubcopilot&theme=dark)
+![AI](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,ollama,huggingface,kaggle,langchain,chatgpt,streamlit,gemini,claude,githubcopilot,cuda&theme=dark)
+
+![AI](https://go-skill-icons.vercel.app/api/icons?i=mistral,matplotlib,pandas,scikitlearn,scipy,pytorch&theme=dark)
 
 ----
 
