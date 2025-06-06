@@ -24,13 +24,15 @@
 
 ![Database](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,redis,firebase,sqlite,elasticsearch,mongodb,sqlserver,mariadb,prometheus&theme=dark)
 
-![Other](https://go-skill-icons.vercel.app/api/icons?i=graphql,hibernate,typeorm,swagger,grpc,junit,pytest&theme=dark)
+![Other](https://go-skill-icons.vercel.app/api/icons?i=graphql,hibernate,typeorm,swagger,grpc,junit,pytest,celery,springdatajpa&theme=dark)
 
 ### 💻 Frontend
 
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=vue,angular,npm,yarn,pnpm,bootstrap,electron,vite,vuetify,jwt,materialui&theme=dark)
 
 ![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,vercel,netlify,chartjs,codepen,githubpages,htmx,json&theme=dark)
+
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=pwa,axios&theme=dark)
 
 ### 📱 Application
 
@@ -40,11 +42,11 @@
 
 ![OS](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,ubuntu,windows,proxmox,vmwareworkstation,wsl,debian,htop,powershell,terminal&theme=dark)
 
-![Virtualization and Container](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,lxc,githubactions,terraform,heroku,virtualbox&theme=dark)
+![Virtualization and Container](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,lxc,githubactions,terraform,heroku,virtualbox,qemu&theme=dark)
 
 ![DevOps](https://go-skill-icons.vercel.app/api/icons?i=tmux,kafka,rabbitmq,cloudflare,ngrok,nginx,kibana,prometheus,helm,ansible,grafana&theme=dark)
 
-![AWS Cloud](https://go-skill-icons.vercel.app/api/icons?i=aws,elb,elasticbeanstalk,ecs,ecr,ec2,lambda,dynamodb,rds,cloudwatch,cloudfront,s3&theme=dark)
+![AWS Cloud](https://go-skill-icons.vercel.app/api/icons?i=aws,elb,elasticbeanstalk,ecs,ecr,ec2,lambda,dynamodb,rds,cloudwatch,cloudfront,s3,apigateway&theme=dark)
 
 ![GCP Cloud](https://go-skill-icons.vercel.app/api/icons?i=gcp,bigquery&theme=dark)
 
@@ -56,7 +58,7 @@
 
 ![Tool](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,opensource,jira,jupyter,kde,sonarqube,miro,gradle,alacritty,regex,wireshark&theme=dark)
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=yaml,selenium&theme=dark)
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=yaml,selenium,forgemc,putty,visio,uml,authenticator&theme=dark)
 
 ### AI Related
 
